@@ -11,7 +11,7 @@ True or False para,.
 When set True. Library is inverting output values. For example 255 to 0.
 Last value representing smoothing value if set "0" is no smoothing and values can jump between 2 or 3 outpyt digits.
 To smooth output set more than "0" and output signal ignore small changes smaller than setup value.
-
+         
 #include <potek.h>
 potek pot1(A0, 0, 255, false, 2); 
 
@@ -26,3 +26,4 @@ void loop() {
   delay(100); // Wait for a short time
 }
 
+         
