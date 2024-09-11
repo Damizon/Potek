@@ -1,7 +1,6 @@
 # Potek
          ------Potek Library by Ourniti------
-         
-Library for quicker creating potentiometer instance with mapping, and smoothing output values.
+         A library for faster potentiometer instantiation with output value mapping and smoothing.
 
 Howto example.
 
