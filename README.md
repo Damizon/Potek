@@ -16,8 +16,9 @@ To smooth output set more than "0" and output signal ignore small changes smalle
 potek pot1(A0, 0, 255, false, 2); 
 
 void setup() {
-  Serial.begin(9600); // Start serial communication for debugging
-}
+         Serial.begin(9600); // Start serial communication for debugging
+         }
+         
 void loop() {
   int p1 = pot1.read(); // Read the value of potentiometer p1
   Serial.print("Potentiometer 1 = ");
