@@ -88,4 +88,4 @@ MIT License – free to use, modify, and distribute.
 
 ## 🧑‍💻 Maintainer
 
-Created by **Ourniti**, reorganized and published with README by **Damizon**.
+Created by **Damizon**, reorganized and published with README by **Damizon**.
